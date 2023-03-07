@@ -1,8 +1,8 @@
 # oop
 
-[Лекции 1](lections.ipynb)
+[Лекция 1](lections.ipynb)
 
-[Лекции 2](lection2.ipynb)
+[Лекция 2](lection2.ipynb)
 # Works:
 
 1.1. [Создание простых классов](пр1.ipynb)
